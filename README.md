@@ -48,12 +48,12 @@ O objetivo é registrar minha evolução, reforçar conceitos e criar uma base d
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/italobrazz/softexbfdexercicios.git
    ```
 
 2. **Acesse a pasta**
    ```bash
-   cd NOME-DO-REPOSITORIO
+   cd aula*
    ```
 
 3. **Instale as dependências (se necessário)**
