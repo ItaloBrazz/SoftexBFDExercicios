@@ -4,7 +4,7 @@ let nome = readline.question("Qual seu nome?: ");
 let dia = parseInt(readline.question("Qual o dia do seu nascimento? Responda com 01-31: "));
 let mes = parseInt(readline.question("Qual o mes do seu nascimento? Responda 01-12: "));
 let ano = parseInt(readline.question("Qual o ano seu nascimento? Responda 1***/2***: "));
-let cpf = readline.question("Qual seu CPF? Responda com . e - : ");
+let cpf = readline.question("Qual seu CPF? Responda sem . e - : ");
 let email = readline.question("Qual seu email?: ");
 let pet = readline.question("Voce tem algum animal de estimacao? Responda com s/n: ");
 let petnome
