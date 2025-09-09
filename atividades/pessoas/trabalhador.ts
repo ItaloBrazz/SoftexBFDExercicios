@@ -7,12 +7,11 @@ export class trabalhador extends pessoa{
 
     constructor(nome, idade, cpf, origem, horarioPonto, salario, cargo){
         super(nome, idade, cpf, origem);
-
+        
         this.horarioPonto = horarioPonto;
         this.salario      = salario;
         this.cargo        = cargo;
     }
-
 
     tomarcafe(){}
 }
